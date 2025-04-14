@@ -1,2 +1,2 @@
 [build]
-builder = "google-22"
+builder = "gcr.io/buildpacks/builder:google-22"
