@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"  # Using a recent stable version of Express
+    "express": "^4.19.2" 
   },
   "engines": {
-    "node": "22"  # Specify Node.js major version 22
+    "node": "22" 
   }
 }
