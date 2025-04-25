@@ -15,3 +15,4 @@ def make_request():
         return (f"Request failed: {e}", 500) # 500 Internal Server Error (or another relevant 5xx code)
 
 if __name__ == '__main__':
+    app.run(debug=True)
